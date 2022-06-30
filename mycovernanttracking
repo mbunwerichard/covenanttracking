@@ -1,0 +1,3 @@
+#!/bin/bash
+echo $(date)
+echo "my git push from"
